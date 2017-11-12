@@ -1,0 +1,65 @@
+body{
+  background-color: #2E9AFE;
+}
+
+header{
+  background-color: #2E64FE;
+  height: 70px;
+  margin: -8px;
+  padding: 0px;
+}
+
+a{
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  background-color: #81BEF7;
+  border-radius: 6px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.fa-trello{
+  margin: 15px;
+}
+
+.fa-search{
+  background-color: #81BEF7;
+  color: white;
+  font-size: 25px;
+  border-radius: 6px;
+  padding: 11px;
+  width: 200px;
+}
+
+.logo{
+  background-color: inherit;
+  margin-left: 120px;
+  font-size: 30px;
+  color: #A9D0F5;
+}
+
+#titulo{
+  color: white;
+  margin: 40px;
+  font-size: 22px;
+}
+
+.fa-star-o{
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.fa-lock{
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+
+#btn{
+  background-color:#81BEF7;
+  font-size: 18px;
+  color: #6E6E6E;
+  border:white;
+  border-radius: 4px;
+  padding: 10px;
+}
